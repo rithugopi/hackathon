@@ -1,0 +1,76 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  padding-top: 2%;
+  top: 0;
+  z-index: 1;
+  
+}
+
+.nav-bar {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 40%;
+  margin-right: 100px;
+  font-family: "Luckiest Guy", cursive;
+  
+  
+}
+
+.logo {
+  position: absolute;
+  width: 20%;
+  height: 20%;
+  left: 80px;
+  top: 50px;
+}
+
+.header__orders {
+  color: black;
+  font-size: 25px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.header_link {
+  text-decoration: none;
+}
+
+.header__Rectangle {
+  background: #e26313;
+  border-radius: 5px;
+  width: 130px;
+  height: 40px;
+  cursor: pointer;
+}
+.header__button_text {
+  font-family: "Luckiest Guy", cursive;
+  font-size: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+  margin-left: 25px;
+}
+
+.vector {
+  .vector1 {
+    width: 40px;
+    height: 40px;
+  }
+
+  .vector2 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    bottom: 2px;
+    right: 113px;
+    color: black;
+  }
+}

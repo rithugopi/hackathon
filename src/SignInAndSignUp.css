@@ -1,0 +1,13 @@
+.SignInAndSignUp {
+  display: flex;
+  flex-direction: row;
+  margin-top: 3%;
+  position: relative;
+  margin-bottom: 5%;
+  padding-left: 10%;
+}
+.signinlogo
+{
+  margin-left: 40%;
+  width: 170%;
+}

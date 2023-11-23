@@ -1,0 +1,30 @@
+.main-footer {
+  background: #232323;
+  padding: 5% 20%;
+}
+
+.container-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 30%;
+  margin-left: 20%;
+  color: white;
+}
+
+.footer_cc {
+  margin-right: 40%;
+  font-weight: 10;
+  margin-top: 3%;
+  color: white;
+  margin-left: 20%;
+}
+
+.footer_logo {
+  margin-top: 6%;
+  margin-right: 42%;
+  margin-left: 10%;
+  width: 15%;
+  color: white;
+}
